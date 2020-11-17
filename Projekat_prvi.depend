@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603310416 source:c:\users\user\desktop\fazi\projekat_prvi\main.c
+	<stdio.h>
+	<stdlib.h>
+
